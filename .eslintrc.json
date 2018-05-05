@@ -17,7 +17,7 @@
     "rules": {
         "indent": [
             "warn",
-            4
+            2
         ],
         "linebreak-style": [
             "warn",
@@ -28,7 +28,7 @@
             "single"
         ],
         "semi": [
-            "error",
+            "warn",
             "always"
         ],
         "react/jsx-uses-react": "error",
